@@ -14,7 +14,7 @@ public class RandomClue {
 
 	/**
 	 * application driver: tests random game outcomes
-	 * 
+	 *
 	 * @param args
 	 */
 	public static void main(String[] args) {
